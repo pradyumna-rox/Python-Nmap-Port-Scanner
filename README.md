@@ -47,6 +47,8 @@ Protocol: tcp
 Port: 22     State: open
 Port: 80     State: open
 ...
-⚠️ Disclaimer
+
+
+## ⚠️ Disclaimer
 This tool is intended for educational and authorized security testing only. Scanning networks or systems without permission is illegal and unethical.
 
